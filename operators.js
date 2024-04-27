@@ -11,5 +11,5 @@ There are various types of operators :
 Note Question:
 Difference between == and ===:
 == is used to provide the result on the basis of comparision of two values
-=== is used to provide the result on the basis of comparision of two values and by comparing the types of bath values
+=== is used to provide the result on the basis of comparision of two values as well as by comparing the types of both values
 */ 

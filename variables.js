@@ -3,7 +3,7 @@
 // 2. var can be updated & redeclared within its scope.
 // 3. let can be updated and not redeclared.
 // 4. const can neither be updated nor redeclared.
-// 5. var can be delared without initialization but let and const can't be declared without initialization.
+// 5. var can be declared without initialization but let and const can't be declared without initialization.
 
 var a = 23;
 var b = "Prashant";

@@ -60,7 +60,7 @@ for(let student in students){
 
 // Example of For of Loop:
 let places = ["Delhi", "Noida", "Gurugram", "Ayodhya", "Baghpat"];
-for(place of places){
+for(let place of places){
     console.log(place);
 }
 
@@ -71,7 +71,7 @@ while(num<5){
     num++;
 }
 
-// Exaple of Do-while Loop:
+// Example of Do-while Loop:
 let j=0;
 do{
     console.log(j);
