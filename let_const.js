@@ -11,7 +11,7 @@ Temporal Dead Zone :- It is the phase from hoisting to the initialization of the
 
 Reference Error:- It is the error which comes when we try to access the variable before its initialization.
 
-Syntax Error:- It is the error which comes when dublicate variables are declared.
+Syntax Error:- It is the error which comes when duplicate variables are declared.
 
 Type Error:- It is the error which comes when we assign a new value to the constant variable.
 */
